@@ -1,0 +1,5 @@
+[all]
+pip ansible_connection=docker
+
+[group1]
+pip
